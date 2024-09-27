@@ -16,4 +16,9 @@ original template to assess model: Jupyter Notebook :Credit_Risk/credit_risk_cla
 
 **dependencies** The python code relies on the data file in the Resources folder<br>
 
-
+Additional Comments :  This code is my original work with help from<br>
+I have NOT worked with a peer on an assignment,<br>
+I used google<br>
+I used Stack Overflow (https://stackoverflow.com/)<br>
+I used CanChat (https://canchat.dsai-sdia.ssc-spc.cloud-nuage.canada.ca/) to resolve issues<br>
+The instructor did not assist in the homework challenge this week The TA did not assist in the homework challenge this week
